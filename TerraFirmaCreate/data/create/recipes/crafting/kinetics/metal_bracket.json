@@ -9,7 +9,7 @@
       "item": "tfc:metal/rod/wrought_iron"
     },
     "S": {
-      "item": "tfc:metal/sheet/wrought_iron"
+      "item": "create:iron_sheet"
     },
     "I": {
       "item": "tfc:metal/ingot/wrought_iron"
