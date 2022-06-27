@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shapeless","ingredients":[{"tag":"tfcreate:andesite_alloy_rocks"},{"type":"tfc:fluid_item","fluid_ingredient":{"ingredient":{"tag":"tfcreate:andesite_alloy_metals"},"amount":100}}],"result":{"item":"create:andesite_alloy","count":4}}

@@ -1,0 +1,1 @@
+{"type":"tfc:anvil","input":{"item":"tfc:metal/sheet/gold"},"result":{"item":"create:golden_sheet","count":2},"tier":1,"rules":["draw_last","draw_second_last","draw_third_last"]}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:rock/cobble/andesite",
+    "tfc:rock/cobble/dacite",
+    "tfc:rock/cobble/rhyolite",
+    "tfc:rock/cobble/basalt"
+  ]
+}

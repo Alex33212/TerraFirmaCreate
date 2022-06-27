@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "BPB",
+        "PAP",
+        "BPB"
+    ],
+    "key": {
+        "B": {
+            "tag": "tfc:lumber"
+        },
+        "P": {
+            "tag": "minecraft:planks"
+        },
+        "A": {
+            "item": "create:andesite_alloy"
+        }
+    },
+    "result": {
+        "item": "create:large_cogwheel",
+        "count": 2
+    }
+}

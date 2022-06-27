@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RSR",
+    "IAI"
+  ],
+  "key": {
+    "R": {
+      "item": "tfc:metal/rod/wrought_iron"
+    },
+    "S": {
+      "item": "tfc:metal/sheet/wrought_iron"
+    },
+    "I": {
+      "item": "tfc:metal/ingot/wrought_iron"
+    },
+    "A": {
+      "item": "create:andesite_alloy"
+    }
+  },
+  "result": {
+    "item": "create:metal_bracket",
+    "count": 4
+  }
+}

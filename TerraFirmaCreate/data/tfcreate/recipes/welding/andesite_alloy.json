@@ -1,0 +1,14 @@
+{
+    "type": "tfc:welding",
+    "first_input": {
+        "tag": "tfcreate:andesite_alloy_metals"
+    },
+    "second_input": {
+        "tag": "tfcreate:andesite_alloy_rocks"
+    },
+    "tier": 1,
+    "result": {
+        "item": "create:andesite_alloy",
+        "count": 4
+    }
+}

@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:metal/ingot/zinc",
+    "tfc:metal/ingot/tin",
+    "tfc:metal/ingot/bismuth"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ISI",
+    "CBC"
+  ],
+  "key": {
+    "I": {
+      "item": "create:andesite_alloy"
+    },
+    "C": {
+      "tag": "forge:cobblestone"
+    },
+    "B": {
+      "item": "tfc:brass_mechanisms"
+    },
+    "S": {
+      "tag": "forge:slimeballs"
+    }
+  },
+  "result": {
+    "item": "create:sticker"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "type":"tfc:not_rotten",
+      "ingredient":{"item":"tfc:food/rice_grain"}
+    }
+  ],
+  "results": [
+    {
+      "item":"tfc:food/rice_flour"
+    }
+  ],
+  "processingTime": 150
+}

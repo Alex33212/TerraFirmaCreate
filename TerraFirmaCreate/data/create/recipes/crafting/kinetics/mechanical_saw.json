@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "AIA",
+    " C "
+  ],
+  "key": {
+    "C": {
+      "item": "create:andesite_casing"
+    },
+    "A": {
+      "tag": "forge:plates/iron"
+    },
+    "I": {
+      "item": "tfc:metal/ingot/wrought_iron"
+    }
+  },
+  "result": {
+    "item": "create:mechanical_saw"
+  }
+}

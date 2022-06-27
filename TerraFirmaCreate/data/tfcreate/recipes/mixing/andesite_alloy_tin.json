@@ -1,0 +1,19 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "tfcreate:andesite_alloy_rocks"
+    },
+    {
+      "fluid": "tfc:metal/tin",
+      "nbt":{},
+      "amount": 100
+    }
+  ],
+  "results": [
+    {
+      "item": "create:andesite_alloy",
+      "count": 4
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ACA",
+    " C "
+  ],
+  "key": {
+    "A": {
+      "item": "create:andesite_alloy"
+    },
+    "C": {
+      "tag": "tfcreate:rough_cloths"
+    }
+  },
+  "result": {
+    "item": "create:andesite_funnel",
+    "count": 2
+  }
+}
