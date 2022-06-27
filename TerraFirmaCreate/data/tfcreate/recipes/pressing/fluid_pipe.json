@@ -1,0 +1,14 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "tfc:metal/double_sheet/copper"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:fluid_pipe",
+      "count": 4
+    }
+  ]
+}
