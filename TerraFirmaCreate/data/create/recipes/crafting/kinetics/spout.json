@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "T",
+    "C",
+    "P"
+  ],
+  "key": {
+    "T": {
+      "item": "create:fluid_tank"
+    },
+    "C": {
+      "tag": "tfcreate:rough_cloths"
+    },
+    "P": {
+      "item": "create:fluid_pipe"
+    }
+  },
+  "result": {
+    "item": "create:spout"
+  }
+}

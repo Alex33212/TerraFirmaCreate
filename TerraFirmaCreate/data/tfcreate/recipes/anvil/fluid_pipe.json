@@ -1,0 +1,1 @@
+{"type":"tfc:anvil","input":{"item":"tfc:metal/double_sheet/copper"},"result":{"item":"create:fluid_pipe","count":4},"tier":1,"rules":["bend_last","bend_second_last","bend_third_last"]}
