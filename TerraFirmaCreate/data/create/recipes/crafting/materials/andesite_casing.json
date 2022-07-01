@@ -1,22 +1,20 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    " L ",
-    "CBC",
-    "L L"
+    "RPR",
+    "P P",
+    "RPR"
   ],
   "key": {
-    "L": {
+    "P": {
       "tag": "minecraft:planks"
     },
-    "B": {
-      "item": "tfc:brass_mechanisms"
-    },
-    "C": {
+    "R": {
       "item": "tfc:metal/rod/wrought_iron"
     }
   },
   "result": {
-    "item": "create:cart_assembler"
+    "item": "create:andesite_casing",
+    "count": 4
   }
 }

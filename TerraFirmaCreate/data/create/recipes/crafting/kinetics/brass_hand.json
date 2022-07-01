@@ -1,19 +1,19 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "II",
-    "CC"
+    " A ",
+    "BBB",
+    " B "
   ],
   "key": {
-    "I": {
+    "A": {
       "item": "create:iron_sheet"
     },
-    "C": {
-      "tag": "tfcreate:rough_cloths"
+    "B": {
+      "item": "tfc:metal/rod/brass"
     }
   },
   "result": {
-    "item": "create:andesite_tunnel",
-    "count": 2
+    "item": "create:brass_hand"
   }
 }

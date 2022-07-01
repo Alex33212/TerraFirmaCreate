@@ -1,18 +1,34 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "A",
-    "R",
-    "A"
-  ],
-  "key": {
-    "A": {
-      "item": "create:andesite_alloy"
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "create:shaft"
     },
-    "R": {
+    {
+      "item": "create:shaft"
+    },
+    {
+      "item": "create:shaft"
+    },
+    {
+      "item": "create:shaft"
+    },
+    {
       "item": "minecraft:red_dye"
+    },
+    {
+      "item": "create:shaft"
+    },
+    {
+      "item": "create:shaft"
+    },
+    {
+      "item": "create:shaft"
+    },
+    {
+      "item": "create:shaft"
     }
-  },
+  ],
   "result": {
     "item": "create:gantry_shaft",
     "count": 8

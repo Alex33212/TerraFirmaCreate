@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shaped",
   "pattern": [
     "RSR",
-    "IAI"
+    "I I"
   ],
   "key": {
     "R": {
@@ -13,9 +13,6 @@
     },
     "I": {
       "item": "tfc:metal/ingot/wrought_iron"
-    },
-    "A": {
-      "item": "create:andesite_alloy"
     }
   },
   "result": {

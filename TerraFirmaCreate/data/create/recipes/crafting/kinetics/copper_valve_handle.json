@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    " S "
+  ],
+  "key": {
+    "S": {
+      "item": "tfc:metal/rod/wrought_iron"
+    },
+    "C": {
+      "tag": "forge:plates/copper"
+    }
+  },
+  "result": {
+    "item": "create:copper_valve_handle"
+  }
+}

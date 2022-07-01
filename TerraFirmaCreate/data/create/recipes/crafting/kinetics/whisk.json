@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " S ",
+    "RRR",
+    " R "
+  ],
+  "key": {
+    "S": {
+      "item": "create:shaft"
+    },
+    "R": {
+      "item": "tfc:metal/rod/wrought_iron"
+    }
+  },
+  "result": {
+    "item": "create:whisk"
+  }
+}

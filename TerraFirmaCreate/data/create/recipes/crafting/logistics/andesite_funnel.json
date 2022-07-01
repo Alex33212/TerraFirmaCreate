@@ -1,12 +1,12 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "ACA",
+    "ICI",
     " C "
   ],
   "key": {
-    "A": {
-      "item": "create:andesite_alloy"
+    "I": {
+      "item": "create:iron_sheet"
     },
     "C": {
       "tag": "tfcreate:rough_cloths"

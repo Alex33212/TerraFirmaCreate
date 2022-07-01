@@ -1,16 +1,16 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    " B ",
-    "SCS",
+    "LHL",
+    " C ",
     " Q "
   ],
   "key": {
-    "B": {
-      "tag": "minecraft:planks"
+    "H": {
+      "item": "tfc:handstone"
     },
-    "S": {
-      "item": "create:andesite_alloy"
+    "L": {
+      "tag": "tfc:lumber"
     },
     "C": {
       "item": "create:cogwheel"
