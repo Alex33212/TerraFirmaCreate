@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "L",
+    "S",
+    "L"
+  ],
+  "key": {
+    "L": {
+      "tag": "minecraft:logs"
+    },
+    "S": {
+      "item": "tfc:metal/sheet/wrought_iron"
+    }
+  },
+  "result": {
+    "item": "create:shaft",
+    "count": 8
+  }
+}

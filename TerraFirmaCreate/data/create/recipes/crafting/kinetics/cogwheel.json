@@ -2,15 +2,15 @@
     "type": "minecraft:crafting_shaped",
     "pattern": [
         "BBB",
-        "BAB",
+        "BSB",
         "BBB"
     ],
     "key": {
         "B": {
             "tag": "tfc:lumber"
         },
-        "A": {
-            "item": "create:andesite_alloy"
+        "S": {
+            "item": "tfc:metal/sheet/wrought_iron"
         }
     },
     "result": {
